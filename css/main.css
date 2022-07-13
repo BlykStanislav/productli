@@ -3,6 +3,8 @@ body {
     font-family: 'Gotham Pro Medium', sans-serif;
 }
 
+*{transition: all .1s ease-in;}
+
 li {
     margin: 10px 0 0 0;
 }
